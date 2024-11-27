@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165230014794",
+    "project_id": "shaheer-2faf6",
+    "storage_bucket": "shaheer-2faf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165230014794:android:3527a7138049aa277f11b3",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpAXu_0VpPJn62SjXnkWxU7-6bvrOUM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
